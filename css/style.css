@@ -180,6 +180,11 @@ button {
         font-size: 1em;
     }
 
+.latest-news lii {
+        margin-bottom: 2px;
+        font-size: 1em;
+    }
+
 ul {
     margin-top: 10px;
     list-style-type: disc;
