@@ -105,14 +105,14 @@ h3 {
 }
 
 
-ul, li {
+ul {
     margin-bottom: 20px;
     margin-top: 15px;
 }
 
-lii {
-    margin-bottom: 10px;
-    margin-top: 10px;
+li {
+    margin-bottom: 5px;
+    margin-top: 5px;
 }
 
 .imgtable {
